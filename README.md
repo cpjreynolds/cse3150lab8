@@ -1,4 +1,4 @@
-# CSE3150 - Lab 7
+# CSE3150 - Lab 8
 
 ## Compilation
 
@@ -6,14 +6,5 @@
 
 `make check` to compile and run tests.
 
-`make run` to compile and execute `./lab7.out`
+`make run` to compile and execute `./lab8.out`
 
-If you have compilation errors relating to `format` or `views::zip`, compile
-with NOFORMAT=1 and NOZIP=1 respectively.
-
-e.g.: `make run NOFORMAT=1`
-
-### Usage
-
-`./lab7.out <input-file>` where `<input-file>` defaults to `test.txt` if not
-specified.

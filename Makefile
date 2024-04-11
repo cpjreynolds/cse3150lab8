@@ -1,4 +1,4 @@
-PROJECT=lab7
+PROJECT=lab8
 
 # macos symlinks gcc/g++ to apple clang so this is here to ensure we get an
 # actual GNU compiler.
